@@ -1,7 +1,7 @@
 <!-- README.md en https://github.com/jean-tu-usuario/jean-tu-usuario -->
 
 <h1 align="center">Hola, soy Jean A. Peraza Y. 👋</h1>
-<h3 align="center">Ingeniero de Sistemas | Arquitecto de Datos | Creador de Asistentes Inteligentes</h3>
+<h3 align="center">Senior con 29+ años de experiencia | Arquitecto de Datos y Software | Creador de Asistentes Inteligentes</h3>
 
 <p align="center">
   🇻🇪 Basado en Venezuela | 💡 Construyendo sistemas que no se rompen | 🤖 Próximo paso: Asistente robótico local
